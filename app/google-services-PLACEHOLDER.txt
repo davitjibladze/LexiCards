@@ -1,0 +1,9 @@
+REPLACE THIS FILE with your google-services.json from Firebase Console.
+
+Steps:
+1. Go to https://console.firebase.google.com
+2. Create a new project (or open existing)
+3. Add an Android app with package name: com.lexicards
+4. Download google-services.json
+5. Place it in the /app/ folder (same folder as this file)
+6. Delete this placeholder file

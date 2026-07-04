@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="correct_green">#FF2E7D32</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="typo_orange">#FFF57C00</color>
+    <color name="wrong_red">#FFC62828</color>
+    <string name="add">Add</string>
+    <string name="add_card">Add card</string>
+    <string name="add_deck">Add deck</string>
+    <string name="almost">Almost! Correct: %s</string>
+    <string name="answer_language">I will answer in:</string>
+    <string name="app_name">LexiCards</string>
+    <string name="cancel">Cancel</string>
+    <string name="check">Check</string>
+    <string name="correct">✓ Correct!</string>
+    <string name="create">Create</string>
+    <string name="create_deck">Create Deck</string>
+    <string name="deck_description">Description (optional)</string>
+    <string name="deck_name">Deck name</string>
+    <string name="delete">Delete</string>
+    <string name="delete_card">Delete card</string>
+    <string name="delete_card_confirm">Delete this card?</string>
+    <string name="delete_deck">Delete deck</string>
+    <string name="delete_deck_confirm">Delete \"%s\" and all its cards?</string>
+    <string name="due_today">Due Today</string>
+    <string name="finish">Back to Deck</string>
+    <string name="foreign">Foreign</string>
+    <string name="foreign_word">Word in foreign language</string>
+    <string name="gcm_defaultSenderId" translatable="false">92690717708</string>
+    <string name="georgian">Georgian</string>
+    <string name="georgian_word">სიტყვა ქართულად</string>
+    <string name="google_api_key" translatable="false">AIzaSyALlrn6DzKCeLHBr35j0vANbsqw0p6EpFA</string>
+    <string name="google_app_id" translatable="false">1:92690717708:android:3d9813adbe47a429462229</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALlrn6DzKCeLHBr35j0vANbsqw0p6EpFA</string>
+    <string name="google_storage_bucket" translatable="false">lexicards-a0aab.firebasestorage.app</string>
+    <string name="language_code">Language code (e.g. EN, DE, FR)</string>
+    <string name="mastered">Mastered</string>
+    <string name="my_decks">My Decks</string>
+    <string name="need_ten_cards">Add at least 10 cards to start studying</string>
+    <string name="next_card">Next →</string>
+    <string name="no_cards">No cards yet. Tap + to add cards.</string>
+    <string name="no_decks">No decks yet. Tap + to create one.</string>
+    <string name="project_id" translatable="false">lexicards-a0aab</string>
+    <string name="prompt_language">Show me:</string>
+    <string name="session_complete">You reviewed %d cards this session.</string>
+    <string name="start_study">Start Studying</string>
+    <string name="stats_title">Statistics</string>
+    <string name="study">Study</string>
+    <string name="total_cards">Total Cards</string>
+    <string name="total_decks">Total Decks</string>
+    <string name="well_done">Well done! 🎉</string>
+    <string name="wrong">✗ Wrong. Correct: %s</string>
+    <string name="your_answer">Your answer</string>
+    <style name="Theme.LexiCards" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#03DAC5</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:statusBarColor">#3700B3</item>
+    </style>
+</resources>

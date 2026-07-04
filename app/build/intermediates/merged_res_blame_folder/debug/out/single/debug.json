@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-merged_res-57:\\layout_dialog_create_deck.xml.flat",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\dialog_create_deck.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-merged_res-57:\\layout_item_deck.xml.flat",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\item_deck.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-merged_res-57:\\layout_fragment_card_list.xml.flat",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\fragment_card_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-merged_res-57:\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-merged_res-57:\\layout_item_card.xml.flat",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\item_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-merged_res-57:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.lexicards.app-merged_res-57:/layout_fragment_deck_list.xml.flat",
+        "source": "com.lexicards.app-main-59:/layout/fragment_deck_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-merged_res-57:\\layout_fragment_study.xml.flat",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\fragment_study.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-merged_res-57:\\layout_dialog_add_card.xml.flat",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\dialog_add_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-merged_res-57:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-merged_res-57:\\layout_fragment_stats.xml.flat",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\fragment_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-merged_res-57:\\layout_fragment_deck_list.xml.flat",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\fragment_deck_list.xml"
+    }
+]

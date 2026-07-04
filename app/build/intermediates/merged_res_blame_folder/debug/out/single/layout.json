@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-mergeDebugResources-56:\\layout\\fragment_deck_list.xml",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\fragment_deck_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-mergeDebugResources-56:\\layout\\dialog_create_deck.xml",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\dialog_create_deck.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-mergeDebugResources-56:\\layout\\dialog_add_card.xml",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\dialog_add_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-mergeDebugResources-56:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-mergeDebugResources-56:\\layout\\item_card.xml",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\item_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-mergeDebugResources-56:\\layout\\fragment_stats.xml",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\fragment_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-mergeDebugResources-56:\\layout\\fragment_study.xml",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\fragment_study.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-mergeDebugResources-56:\\layout\\item_deck.xml",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\item_deck.xml"
+    },
+    {
+        "merged": "com.lexicards.app-mergeDebugResources-56:/layout/fragment_deck_list.xml",
+        "source": "com.lexicards.app-main-59:/layout/fragment_deck_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-mergeDebugResources-56:\\layout\\fragment_card_list.xml",
+        "source": "C:\\Users\\datoj\\.gradle\\daemon\\8.9\\com.lexicards.app-main-59:\\layout\\fragment_card_list.xml"
+    }
+]

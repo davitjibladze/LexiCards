@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.lexicards.ui.deck.DeckListFragmentDirections","com.lexicards.ui.cards.CardListFragmentDirections","com.lexicards.ui.cards.CardListFragmentArgs","com.lexicards.ui.study.StudyFragmentArgs"]}]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">92690717708</string>
+    <string name="google_api_key" translatable="false">AIzaSyALlrn6DzKCeLHBr35j0vANbsqw0p6EpFA</string>
+    <string name="google_app_id" translatable="false">1:92690717708:android:3d9813adbe47a429462229</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALlrn6DzKCeLHBr35j0vANbsqw0p6EpFA</string>
+    <string name="google_storage_bucket" translatable="false">lexicards-a0aab.firebasestorage.app</string>
+    <string name="project_id" translatable="false">lexicards-a0aab</string>
+</resources>

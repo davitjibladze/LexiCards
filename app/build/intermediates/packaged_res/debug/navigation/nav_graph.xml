@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/deckListFragment">
+
+    <fragment
+        android:id="@+id/deckListFragment"
+        android:name="com.lexicards.ui.deck.DeckListFragment"
+        android:label="@string/my_decks"
+        tools:layout="@layout/fragment_deck_list">
+        <action
+            android:id="@+id/actionDeckListToCardList"
+            app:destination="@id/cardListFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/cardListFragment"
+        android:name="com.lexicards.ui.cards.CardListFragment"
+        android:label="{deckName}"
+        tools:layout="@layout/fragment_card_list">
+        <argument
+            android:name="deckId"
+            app:argType="string" />
+        <argument
+            android:name="deckName"
+            app:argType="string" />
+        <action
+            android:id="@+id/actionCardListToStudy"
+            app:destination="@id/studyFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/studyFragment"
+        android:name="com.lexicards.ui.study.StudyFragment"
+        android:label="@string/study"
+        tools:layout="@layout/fragment_study">
+        <argument
+            android:name="deckId"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/statsFragment"
+        android:name="com.lexicards.ui.stats.StatsFragment"
+        android:label="@string/stats_title"
+        tools:layout="@layout/fragment_stats" />
+
+</navigation>
