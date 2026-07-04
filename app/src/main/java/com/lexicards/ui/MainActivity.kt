@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         setSupportActionBar(binding.toolbar)
 
-        // Создаём NavHostFragment программно
         if (savedInstanceState == null) {
             val navHostFragment = NavHostFragment.create(R.navigation.nav_graph)
             supportFragmentManager.beginTransaction()
